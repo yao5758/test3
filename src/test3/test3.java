@@ -5,5 +5,6 @@ public class test3 {
 		int t = 3;
 		int i = 9;
 		System.out.println(i);
+		int y = 0;
 	}
 }
